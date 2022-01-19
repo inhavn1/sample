@@ -1,0 +1,2 @@
+#define SONARQUBECPPLIB_API __declspec(dllexport)
+#define SONARQUBECPPLIB_API __declspec(dllimport)

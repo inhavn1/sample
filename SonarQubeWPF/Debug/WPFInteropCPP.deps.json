@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "WPFInteropCPP/1.0.0": {
+        "runtime": {
+          "WPFInteropCPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFInteropCPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

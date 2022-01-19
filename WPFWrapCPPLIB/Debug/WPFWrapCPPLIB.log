@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  SonarHelper.cpp
+  WPFWrapCPPLIB.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WPFWrapCPPLIB.vcxproj -> C:\Users\INSHK7\Desktop\ABBProjectHelp\SonarQubeWPF\Debug\WPFWrapCPPLIB.dll
